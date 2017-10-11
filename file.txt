@@ -1,1 +1,2 @@
-conflict line at branch
+Just a line
+conflict line at branch b1
