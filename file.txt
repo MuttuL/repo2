@@ -1,2 +1,3 @@
 Just a line
 conflict line at branch master
+conflict line at branch b1
