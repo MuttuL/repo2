@@ -7,3 +7,6 @@ Chikamagalur
 Chitradurga
 Koppala
 Bengaluru C
+Kolar
+Tumakuru
+Raichur
